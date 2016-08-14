@@ -11,7 +11,7 @@ namespace KalitimDemo
     {
         public MotorluTasit()
         {
-            Console.WriteLine("MotoluTasit contr. çalıştı");
+            Console.WriteLine("MotoluTasit control çalıştı");
         }
 
         public MotorluTasit(int val)
