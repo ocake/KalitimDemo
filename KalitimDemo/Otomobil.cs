@@ -12,7 +12,7 @@ namespace KalitimDemo
 
         public virtual int KapiSayisi
         {
-            get { return 4; }
+            get { return 5; }
         }
          
     }
