@@ -13,10 +13,10 @@ namespace KalitimDemo
             Console.WriteLine("Kamyon Contr. çalıştı");
         }
 
-        public Kamyon(int val)
-            : base(val)
+        public Kamyon(int valu)
+            : base(valu)
         {
-            Console.WriteLine("Kamyon : {0}", val);
+            Console.WriteLine("Kamyon : {0}", valu);
         }
 
     }
