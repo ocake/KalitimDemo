@@ -10,13 +10,15 @@ namespace KalitimDemo
     {
         public Kamyon()
         {
-            Console.WriteLine("Kamyon Contr. çalıştı");
+            Console.WriteLine("Kamyonlar Contr. çalıştı");
+            Console.WriteLine("yeni branch ekledim");
         }
 
         public Kamyon(int val)
             : base(val)
         {
             Console.WriteLine("Kamyon : {0}", val);
+            Console.WriteLine(val);
         }
 
     }
