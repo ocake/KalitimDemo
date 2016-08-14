@@ -18,8 +18,7 @@ namespace KalitimDemo
             : base(valu)
         {
             Console.WriteLine("Kamyon : {0}", valu);
-            Console.WriteLine("Kamyon : {0}", val);
-            Console.WriteLine(val);
+
         }
 
     }
